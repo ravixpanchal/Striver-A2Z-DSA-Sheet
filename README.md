@@ -26,23 +26,6 @@ The sheet covers:
 
 ---
 
-## 📂 Folder Structure
-Striver-A2Z-DSA-Sheet/
-├── Basics
-├── Arrays
-├── BinarySearch
-├── Strings
-├── LinkedList
-├── StackQueue
-├── Recursion
-├── BitManipulation
-├── SlidingWindow
-├── Trees
-├── Graphs
-├── DynamicProgramming
-└── Greedy
-
-
 Each folder contains:
 
 ✔ Problem Solution Code  
