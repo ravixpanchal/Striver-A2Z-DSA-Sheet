@@ -33,7 +33,7 @@ Each folder contains:
 
 ---
 ## 💻 Languages Used
-- C++
+C++
   
 ---
 ## 🙌 Credits
