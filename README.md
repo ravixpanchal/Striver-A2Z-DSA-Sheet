@@ -44,14 +44,32 @@ The sheet covers:
 - Greedy Algorithms  
 
 ---
+Each folder contains:
 
-## 📂 Repository Structure
+✔ Problem Solution Code  
+✔ Proper Comments  
+✔ Optimized Approach  
 
-Each topic folder contains:
+---
+## 💻 Languages Used
+C++
 
-- ✔ Problem Solution Code  
-- ✔ Optimized Approach  
-- ✔ Clean & readable code  
+---
 
-Example:
+## 🎯 Goal
+
+- Complete entire A2Z DSA Sheet  
+- Improve problem-solving skills  
+- Prepare for placements & interviews  
+
+---
+
+## 🙌 Credits
+
+Special thanks to **Striver (Raj Vikramaditya)** for creating this amazing DSA roadmap.
+
+---
+
+⭐ If you find this helpful, feel free to star the repository!
+
 
